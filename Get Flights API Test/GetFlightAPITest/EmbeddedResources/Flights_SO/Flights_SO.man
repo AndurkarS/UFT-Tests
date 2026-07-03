@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>65defcea-c44a-4142-8d9a-54110d8c6046</ID>
+  <Name>Flights_SO</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2026-07-03T08:46:03.2347129+00:00</CreationDate>
+  <UpdateDate>2026-07-03T08:46:03.2347129+00:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>6eed3f8e-7bb9-4f56-bad5-3d8de026ef69.xml</MetaDataSignatureFile>
+  <TestResourceId>6eed3f8e-7bb9-4f56-bad5-3d8de026ef69</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>2026.3.0.64</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\_ft_auto\Desktop\FTo-Tests\UFT-Tests\Get Flights API Test\GetFlightAPITest\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\_ft_auto\Desktop\FTo-Tests\UFT-Tests\Get Flights API Test\GetFlightAPITest\EmbeddedResources\Flights_SO</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>2026.3.0.64</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
