@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>b689e407-7877-445a-9376-c751a72f9db6</ID>
+  <Name>RestService</Name>
+  <Type>REST</Type>
+  <Version>2</Version>
+  <CreationDate>2026-06-29T15:34:58.3214827+05:30</CreationDate>
+  <UpdateDate>2026-06-29T15:42:15.3589844+05:30</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>e830b9bb-63f6-4f39-880e-e5b2f9e0ce19.xml</MetaDataSignatureFile>
+  <TestResourceId>e830b9bb-63f6-4f39-880e-e5b2f9e0ce19</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.RestDesignTime.RestServicesV2</SignatureCodonId>
+  <SignatureAddinVersion>2026.3.0.42</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\vnagilla\Documents\Functional Testing\APITest18\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\vnagilla\Documents\Functional Testing\APITest18\EmbeddedResources\RestService</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>2026.3.0.42</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
