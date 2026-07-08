@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>cd6c216e-d09b-4148-9c4c-352fc3a1adff</ID>
+  <Name>AdvantageShopping</Name>
+  <Type>REST</Type>
+  <Version>2</Version>
+  <CreationDate>2026-07-08T16:23:35.8596819+05:30</CreationDate>
+  <UpdateDate>2026-07-08T16:23:52.7242013+05:30</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>912a6ead-46a0-4df7-9cb0-9d95a86b8e01.xml</MetaDataSignatureFile>
+  <TestResourceId>912a6ead-46a0-4df7-9cb0-9d95a86b8e01</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.RestDesignTime.RestServicesV2</SignatureCodonId>
+  <SignatureAddinVersion>2026.3.0.46</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\spatil9\Downloads\EMCS1\EMCS\EMCS\Testfälle\AdvantageShopping\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\spatil9\Downloads\EMCS1\EMCS\EMCS\Testfälle\AdvantageShopping\EmbeddedResources\AdvantageShopping</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>2026.3.0.46</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AddinVersions>
+  <AddinVersion AddinId="HP.ST.STFRAMEWORKUPGRADERSADDIN" Version="2026.3.0.46" />
+  <AddinVersion AddinId="HP.ST.VTDBASICACTIVITY" Version="2026.3.0.46" />
+  <AddinVersion AddinId="HP.ST.TECHNOLOGIES.RESTV2" Version="2026.3.0.46" />
+</AddinVersions>
